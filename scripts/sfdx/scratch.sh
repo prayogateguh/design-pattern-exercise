@@ -1,0 +1,1 @@
+sfdx auth:sfdxurl:store -f scripts/sfdx/scratch.txt -a dev
